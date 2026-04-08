@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Replace with your actual banner URL after uploading to the .github repo -->
-<!-- To use: upload durwood-banner.svg to this repo, then update the src path -->
-
-<img src="./durwood-banner.svg" alt="Durwood Studios" width="100%" />
+<img src="https://raw.githubusercontent.com/Durwood-Studios/.github/main/durwood-banner.svg" alt="Durwood Studios" width="100%" />
 
 <br/>
 <br/>
